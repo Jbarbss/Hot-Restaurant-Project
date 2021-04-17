@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Jbarbss/Hot-Restaurant-Project/issues"
   },
-  "homepage": "https://github.com/Jbarbss/Hot-Restaurant-Project#readme"
+  "homepage": "https://github.com/Jbarbss/Hot-Restaurant-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
